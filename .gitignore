@@ -1,0 +1,13 @@
+UserSettings/
+ProjectSettings/
+Packages/
+obj/
+Logs/
+Library/
+Assets/_SVK/
+Assets/LowPolyDungeonsLite/
+Assets/Polytope Studio/
+Assets/Starter Assets/
+Assets/Plugins/CodeAssist/
+
+*.csproj

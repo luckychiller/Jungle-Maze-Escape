@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Jungle Maze Escape\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5B4D02-9C67-AB67-7871-5992CA0B25E8}|Unity.RenderPipelines.Universal.Shaders.csproj|e:\\jungle maze escape\\library\\packagecache\\com.unity.render-pipelines.universal@14.0.11\\shaders\\terrain\\terrainlit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4F5B4D02-9C67-AB67-7871-5992CA0B25E8}|Unity.RenderPipelines.Universal.Shaders.csproj|solutionrelative:library\\packagecache\\com.unity.render-pipelines.universal@14.0.11\\shaders\\terrain\\terrainlit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TerrainLit.shader",
+              "DocumentMoniker": "E:\\Jungle Maze Escape\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "ToolTip": "E:\\Jungle Maze Escape\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-07-03T10:58:10.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
