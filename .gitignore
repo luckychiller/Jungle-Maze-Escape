@@ -9,5 +9,13 @@ Assets/LowPolyDungeonsLite/
 Assets/Polytope Studio/
 Assets/Starter Assets/
 Assets/Plugins/CodeAssist/
+Assets/Fantasy Skybox FREE/
+Assets/_TerrainAutoUpgrade/
+builds/Jungle Maze Escape_BurstDebugInformation_DoNotShip/
+builds/Jungle Maze Escape_Data/
+builds/MonoBleedingEdge/
+builds/UnityPlayer.dll
 
+
+.vs/
 *.csproj
